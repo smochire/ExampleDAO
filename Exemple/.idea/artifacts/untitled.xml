@@ -2,10 +2,10 @@
   <artifact type="exploded-war" name="untitled">
     <output-path>$PROJECT_DIR$/out/artifacts/untitled</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="untitled/web/Web" />
+      <element id="javaee-facet-resources" facet="ExempleDAO/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="untitled" />
+          <element id="module-output" name="ExempleDAO" />
         </element>
       </element>
     </root>
